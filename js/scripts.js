@@ -1,6 +1,6 @@
 const previousOperationsText = document.querySelector("#previous-operation");
 const currentOperationText = document.querySelector("#current-operation");
-const buttons = document.querrySelectAll("#buttons-container button");
+const buttons = document.querySelectAll("#buttons-container button");
 
 class Calculator {
     constructor(previousOperationsText, currentOperationText) {
